@@ -1,4 +1,4 @@
-![??? logo](.media/logo.png)
+![??? logo](.media/logo.jpg)
 
 # 🇫🇷 Transparence Politique : Facilitons la Démocratie
 
